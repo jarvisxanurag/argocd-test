@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: asia-south1-docker.pkg.dev/bjp-saral/argocdtest/master:295
+        image: asia-south1-docker.pkg.dev/jarvisx-048/argocdtest/master:295
         ports:
         - containerPort: 5000
 
